@@ -26,7 +26,7 @@
             </value>
             <next>
               <block type="oled_color" id="76">
-                <field name="OBJECT">BLACK</field>
+                <field name="OBJECT">GREEN</field>
                 <next>
                   <block type="oled_linerect" id="85">
                     <field name="OBJECT">RECT</field>
